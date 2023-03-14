@@ -76,4 +76,5 @@ For additional details, please check our paper.
 
 ## Acknowledgements
 
-Research supported, in parts, by Technology Innovation Institute (TII) under Grant 8434000394, and ERICS.
+  Research supported, in parts, by Technology Innovation Institute (TII) under Grant 8434000394, by the project MUSA - Multilayered Urban Sustainability Action - project, funded by the European Union - NextGenerationEU, under the National Recovery and Resilience Plan (NRRP) Mission 4 Component 2 Investment Line 1.5: Strenghtening of research structures and creation of R\&D "innovation ecosystems", set up of "territorial leaders in R\&D" (CUP  G43C22001370007, Code ECS00000037).
+  Research partially supported also by the project SERICS (PE00000014) under the NRRP MUR program funded by the EU - NextGenerationEU.
