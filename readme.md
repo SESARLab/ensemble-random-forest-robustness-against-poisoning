@@ -41,6 +41,11 @@ Below we show an excerpt of the dataset.
 | 0 | 0 | 0| 0 | ... | 0 |
 | 49 | 11 | 9 | 5 | ... | 1 |
 
+**Note**: the dataset included here is an excerpt (20% at random) of the original dataset. For access to the complete dataset please contact
+
+- [Nicola Bena (Università degli Studi di Milano)](mailto:nicola.bena@unimi.it)
+- [Sangyoung Yoon (Khalifa University)](mailto:sangyoung.yoon@ku.ac.ae)
+
 ## Dataset: SB
 
 SB is an open and well-know dataset for spam detection in email body messages [[https://doi.org/10.1007/s10994-007-5004-z](https://doi.org/10.1007/s10994-007-5004-z)], [[https://researchcommons.waikato.ac.nz/handle/10289/2131](https://researchcommons.waikato.ac.nz/handle/10289/2131)], [[https://infoscience.epfl.ch/record/83272](https://infoscience.epfl.ch/record/83272)], [[https://archive.ics.uci.edu/ml/datasets/Spambase](https://archive.ics.uci.edu/ml/datasets/Spambase)]. It contains features counting the occurrence of particular words and the length of sequences of consecutive capital letters.
